@@ -53,7 +53,7 @@ public class InputParser {
                 return false;
             }
         }
-        //checks if expression ends with number or variable
+        //checks if expression ends with number, variable or parenthesis
         if (!input.matches(".*((?i)[a-z]+|[0-9]+|\\))$")) {
             System.out.println(INVALID_EXPRESSION);
             return false;
