@@ -7,4 +7,4 @@ Calculators are a very helpful tool that we all use on a regular basis. Why not 
 
 This is calculator that can calculate stuff like 3 + 8 * ((4 + 3) * 2 + 1) - 6 / (2 + 1) ...allegedly.
 
-Infix to postfix.
+***Infix to postfix.***
